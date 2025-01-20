@@ -1,20 +1,27 @@
 body {
-    font-family: Arial, Verdana, sans-serif;
-    margin: auto;
-    padding: 10px;
+    font-family: Inter, system-ui, sans-serif;
+    font-weight: 420;
+    margin: 45px;
+    color: #c6d0f5;
     background-color: #303446;
+    line-height: 1.5;
 }
 
 h1 {
     color: #f2d5cf;
-    text-align: center;
+    font-family: Monospace;
 }
 
-ul,
-ol {
+ul {
     color: #ca9ee6;
+
 }
 
+ol {
+    color: #c6d0f5;
+}
+
+h2,
 a {
     color: #eebebe;
 }
